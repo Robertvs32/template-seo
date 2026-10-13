@@ -1,0 +1,3 @@
+<?php include('./componentes/headerNav/headerNav.php')?>
+<script src="./componentes/headerNav/headerNav.js" defer></script>
+<link rel="stylesheet" href="./componentes/headerNav/headerNav.css">
